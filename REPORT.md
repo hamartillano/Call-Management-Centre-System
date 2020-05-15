@@ -19,3 +19,16 @@ Stakeholder | POV Statement
 CMC Company Manager | Customer's working busy lives dont have time to research and plan vacations during holidays. Customers need to be directly shown what they want to reduce the stress of actually finding what they desire.
 Relationship Managers | Customer's will find it difficult to be satisfied with sales pitches because they dont trust the other person on the phone. They need to be given the opportunity to trust who theyre talking to so that they engage with the sales pitch.
 Customers | Call centre salesmen/saleswomen make sales pitches sound boring and unenticing because the person making the call sounds like a generic, automated response. Salespeople need to clearly engaged with the customer so that I dont get the impression that the sales pitch it scripted.
+
+## How, Might, We (HMW) Statements
+### CMC Company Manager
+- How might we improve sales by 15% next period?
+- What might we do to help relationship managers achieve higher sales pitch success?
+- What might be holding customers back when coming into contact with our company?
+- How might we find new techniques to improve overall customer satisfaction and response rate?
+### Relationship Managers
+- How might we improve sale pitch success to our customers so that they are not left unsatisfied?
+- What can we change about our sales tactic to get a better impression on customers?
+- What is make customers uninterested in the sales pitch being given?
+- What is stopping us from increase sales pitch success?
+- In what ways could we improve customers responses so we can get an idea of what should be done?
