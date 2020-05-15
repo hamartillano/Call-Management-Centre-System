@@ -12,3 +12,10 @@ Stakeholders:
 - System Administrators
 
 - Programmers
+
+
+Assumptions:
+
+- The employees answer the quesionaire truthfully
+- The database has all of the relevant information about all of the customers
+- During busy times, the Interactive Voice Response unit has no limit on number of customers
