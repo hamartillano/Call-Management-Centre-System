@@ -5,3 +5,10 @@ As per the request of a major travel company, our team has been given the opport
 
 ## Problem Definition
 The major travel company is looking to implement a system which will utilise a "profiling tool" to match relationship managers with the appropriate customer. Additionally, the current business processes of the major travel company does not have a means of settings up the right relationship manager with the appropriate customer which is causing the company to lose sales as customers are left dissatisfied. 
+
+## Stakeholders:
+- CMC Company Manager
+- Relationship Managers
+- Customers
+- System Administrators
+- Programmers
