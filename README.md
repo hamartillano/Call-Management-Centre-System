@@ -2,7 +2,7 @@
 
 ## Information System Development Methodologies (31257)
 ### Team Members
-* Homer Aaron Martillano (Student ID)
+* Homer Aaron Martillano (13537675)
 * Hitarth Patel (Student ID)
 * Kevin Nguyen (Student ID)
 * Yury Milenkov (Student ID)
