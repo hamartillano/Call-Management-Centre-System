@@ -11,14 +11,15 @@ The major travel company is looking to implement a system which will utilise a "
 - Relationship Managers
 - Customers
 - System Administrators
-- Programmers
+- Flight agencies
 
 ## Point of View Statements
-Stakeholder | POV Statement
---- | ---
-CMC Company Manager | Customer's working busy lives dont have time to research and plan vacations during holidays. Customers need to be directly shown what they want to reduce the stress of actually finding what they desire.
-Relationship Managers | Customer's will find it difficult to be satisfied with sales pitches because they dont trust the other person on the phone. They need to be given the opportunity to trust who theyre talking to so that they engage with the sales pitch.
-Customers | Call centre salesmen/saleswomen make sales pitches sound boring and unenticing because the person making the call sounds like a generic, automated response. Salespeople need to clearly engaged with the customer so that I dont get the impression that the sales pitch it scripted.
+### CMC Company Manager
+- Customer's working busy lives dont have time to research and plan vacations during holidays. Customers need to be directly shown what they want to reduce the stress of actually finding what they desire.
+### Relationship Managers
+- Customer's will find it difficult to be satisfied with sales pitches because they dont trust the other person on the phone. They need to be given the opportunity to trust who theyre talking to so that they engage with the sales pitch.
+### Customers
+- Call centre salesmen/saleswomen make sales pitches sound boring and unenticing because the person making the call sounds like a generic, automated response. Salespeople need to clearly engaged with the customer so that I dont get the impression that the sales pitch it scripted.
 
 ## How, Might, We (HMW) Statements
 ### CMC Company Manager
