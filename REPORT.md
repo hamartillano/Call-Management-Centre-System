@@ -32,3 +32,12 @@ Customers | Call centre salesmen/saleswomen make sales pitches sound boring and 
 - What is make customers uninterested in the sales pitch being given?
 - What is stopping us from increase sales pitch success?
 - In what ways could we improve customers responses so we can get an idea of what should be done?
+
+## Product Backlog
+User Story | Priority | Estimation | Acceptance Criteria
+--- | --- | --- | ---
+As a relationship manager, I want to be paired up with a customer of similar "Profile", so that I can bettter relate with the customer. | High | 9 | Relationship manager will be connected to a user with a similar "Profile" based on age, sex, culture, language proficiency, experience and product knowledge
+As a customer, I want to be connected to a relationship manager with extensive knowledge regarding the travel destination I wish to go to, so that I am well informed and given proper guidance and knowledge. | High | 7 | Customer is connected to a relationship manager who has been acknowledged as highly informative regarding the chosen travel destination. 
+As a relationship manager, I want to complete a "Profile" questionnaire, so that my "Profile" can be acknowledged within the system. | High | 6 | Relationship managers are able to complete a questionnaire which asks for their age, sex, culture, language proficiency, experience and product knowledge forming the foundation for a "Profile" and "Skill Matrix".
+As a CMC Company Manager, I want to check each relationship managers sales performance, so that I can evaluate whether the relationship manager effectively and effeciently performing sales. | Medium | 6 | CMC Company Manager's can display all relationship managers sales performance in a table and can click on a specific employee to display sales information and performance.
+As a relationship manager, I want to check my sales performance and information, so that I can evaluate my own performance and improve on aspects which are showing low effectiveness. | Medium | 5 | Relationship managers will be able to check their sales performance as a pop up window, displaying their success rate, total sale opportunities (number of customers), dates of sales and line graph showing daily customers.
