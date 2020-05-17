@@ -9,8 +9,8 @@ The major travel company is looking to implement a system which will utilise a "
 ## Stakeholders
 - CMC Company Manager
 - Relationship Managers
+- Profile specialists
 - Customers
-- System Administrators
 - Flight agencies
 
 ## Assumptions of current business processes
@@ -30,6 +30,8 @@ The major travel company is looking to implement a system which will utilise a "
 ## Point of View Statements
 ### CMC Company Manager
 - Customer's working busy lives dont have time to research and plan vacations during holidays. Customers need to be directly shown what they want to reduce the stress of actually finding what they desire.
+### Profile Specialists
+- With numerous customers looking to consult with a travel specialist on a given destination, they need to be catered to in the quickest possible time frame so that do not need to waste time on researching their destination themselves.
 ### Relationship Managers
 - Customer's will find it difficult to be satisfied with sales pitches because they dont trust the other person on the phone. They need to be given the opportunity to trust who theyre talking to so that they engage with the sales pitch.
 ### Customers
@@ -47,6 +49,8 @@ The major travel company is looking to implement a system which will utilise a "
 - What is make customers uninterested in the sales pitch being given?
 - What is stopping us from increase sales pitch success?
 - In what ways could we improve customers responses so we can get an idea of what should be done?
+### Profile Specialists
+- 
 
 ## Product Backlog
 User Story | Priority | Estimation | Acceptance Criteria
