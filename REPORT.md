@@ -13,6 +13,20 @@ The major travel company is looking to implement a system which will utilise a "
 - System Administrators
 - Flight agencies
 
+## Assumptions of current business processes
+- One phone number for the entire travel company
+- All in-bound calls are redirected to profile specialists sector which asks the caller a set a questions regarding background, culture and preferred destination.
+- All out-bound calls made have been determined by the profile specialists to match the profile of the relationship manager making the call with a customer of similar profile.
+- Current customers are able to be connected directly to support relationship manager by stating their identification code.
+- Information (profile and skills matrix) of registered customers and hired employees are kept in the central database of the company.
+- Customer scores are recored by the corresponding relationship manager and is saved into the database.
+- All in-bound calls ask the customer for their identification code, this will be used to access their sales score and be put into a priority queue (high scores) or standard queue (low scores).
+- The current "Profile Tool" used only takes into account an individuals surname and residential postcode.
+- All employees are required to complete 2 forms; a profile questionnaire and a skills/expertise questionnaire. This is done upon being hired by the travel company.
+- A relationship managers skills/expertise may be subjected to re-evaluation if sales performance is decreasing.
+- During busy periods, in-bound calls may be transferred to first available relationship manager. Relationship manager and customer pair may not have matching profiles but are skilled in destination of choice.
+- Customers are able to opt out of queue during busy periods but will lose their place in queue.
+
 ## Point of View Statements
 ### CMC Company Manager
 - Customer's working busy lives dont have time to research and plan vacations during holidays. Customers need to be directly shown what they want to reduce the stress of actually finding what they desire.
