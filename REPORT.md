@@ -3,7 +3,7 @@
 
 Stakeholders:
 
-- CMC Company Owner
+- CMC Company Manager
 
 - Relationship Managers
 
@@ -11,7 +11,7 @@ Stakeholders:
 
 - System Administrators
 
-- Programmers
+- Profile Specialists
 
 Assumptions:
 
@@ -27,7 +27,7 @@ EMPATHY MAP (Customers)
 - Pain: Fear of not getting the holiday they want.
 - Gain: Hopes to get a product they need.
 
-EMPATHY MAP (Company Owner)
+EMPATHY MAP (Company Manager)
 - Think and Feel: Think that their system needs improvement, they feel like it could be more efficient.
 - Hear: That their customers are not fully satisfied from their system.
 - See: Customers buying travel packages using their service.
