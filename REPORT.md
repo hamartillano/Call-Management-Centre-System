@@ -3,19 +3,40 @@
 ## Project Objective
 As per the request of a major travel company, our team has been given the opportunity to develop a information system which will aim to improve the daily operations of the companies in-house call management centre (CMS). Moreover, our development team's purpose is to examine the current business processes currently in place within the company and analyse what aspects of the system is to be changed as per the stakeholders request. By finding out the problems of the current processes of the business, our team will be able to brainstorm viable solutions which will improve effeciency and effectiveness of the CMS.
 
+- Improve current business processes of the call routing system.
+- Improve relationship manager to customer profile matching system.
+- Create a visual interface for users to go along with phone system.
+- Reduce wait times of customers.
+
 ## Problem Definition
-The major travel company is looking to implement a system which will utilise a "profiling tool" to match relationship managers with the appropriate customer. Additionally, the current business processes of the major travel company does not have a means of settings up the right relationship manager with the appropriate customer which is causing the company to lose sales as customers are left dissatisfied. 
+The major travel company is looking to implement a system which will utilise a "profiling tool" to match relationship managers with the appropriate customer. Additionally, the current business processes of the major travel company does not have a means of settings up the right relationship manager with the appropriate customer which is causing the company to lose sales as customers are left dissatisfied. Furthermore, the current business processes of the travel company lacks the ability to cater to a large amount of customers at a given period which is forcing many customers to be put in queue with wait times. With many customers unsatifised with the wait times and being pair with a relationship manager with a low similarity index, customers are left unsatisfied leading to decreased sale success and effeciency. In order to improve the current business processes of the travel company, the system which handles all in-bound and out-bound calls needs to be improved to reduce customer unsatisfaction rates.
 
 ## Stakeholders
 - CMC Company Manager
 - Relationship Managers
+- Profile specialists
 - Customers
-- System Administrators
 - Flight agencies
+
+## Assumptions of current business processes
+- One phone number for the entire travel company
+- All in-bound calls are redirected to profile specialists sector which asks the caller a set a questions regarding background, culture and preferred destination.
+- All out-bound calls made have been determined by the profile specialists to match the profile of the relationship manager making the call with a customer of similar profile.
+- Current customers are able to be connected directly to support relationship manager by stating their identification code.
+- Information (profile and skills matrix) of registered customers and hired employees are kept in the central database of the company.
+- Customer scores are recored by the corresponding relationship manager and is saved into the database.
+- All in-bound calls ask the customer for their identification code, this will be used to access their sales score and be put into a priority queue (high scores) or standard queue (low scores).
+- The current "Profile Tool" used only takes into account an individuals surname and residential postcode.
+- All employees are required to complete 2 forms; a profile questionnaire and a skills/expertise questionnaire. This is done upon being hired by the travel company.
+- A relationship managers skills/expertise may be subjected to re-evaluation if sales performance is decreasing.
+- During busy periods, in-bound calls may be transferred to first available relationship manager. Relationship manager and customer pair may not have matching profiles but are skilled in destination of choice.
+- Customers are able to opt out of queue during busy periods but will lose their place in queue.
 
 ## Point of View Statements
 ### CMC Company Manager
 - Customer's working busy lives dont have time to research and plan vacations during holidays. Customers need to be directly shown what they want to reduce the stress of actually finding what they desire.
+### Profile Specialists
+- With numerous customers looking to consult with a travel specialist on a given destination, they need to be catered to in the quickest possible time frame so that do not need to waste time on researching their destination themselves.
 ### Relationship Managers
 - Customer's will find it difficult to be satisfied with sales pitches because they dont trust the other person on the phone. They need to be given the opportunity to trust who theyre talking to so that they engage with the sales pitch.
 ### Customers
@@ -33,6 +54,8 @@ The major travel company is looking to implement a system which will utilise a "
 - What is make customers uninterested in the sales pitch being given?
 - What is stopping us from increase sales pitch success?
 - In what ways could we improve customers responses so we can get an idea of what should be done?
+### Profile Specialists
+- 
 
 ## Product Backlog
 User Story | Priority | Estimation | Acceptance Criteria
