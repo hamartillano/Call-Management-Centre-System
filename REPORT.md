@@ -3,6 +3,11 @@
 ## Project Objective
 As per the request of a major travel company, our team has been given the opportunity to develop a information system which will aim to improve the daily operations of the companies in-house call management centre (CMS). Moreover, our development team's purpose is to examine the current business processes currently in place within the company and analyse what aspects of the system is to be changed as per the stakeholders request. By finding out the problems of the current processes of the business, our team will be able to brainstorm viable solutions which will improve effeciency and effectiveness of the CMS.
 
+- Improve current business processes of the call routing system.
+- Improve relationship manager to customer profile matching system.
+- Create a visual interface for users to go along with phone system.
+- Reduce wait times of customers.
+
 ## Problem Definition
 The major travel company is looking to implement a system which will utilise a "profiling tool" to match relationship managers with the appropriate customer. Additionally, the current business processes of the major travel company does not have a means of settings up the right relationship manager with the appropriate customer which is causing the company to lose sales as customers are left dissatisfied. Furthermore, the current business processes of the travel company lacks the ability to cater to a large amount of customers at a given period which is forcing many customers to be put in queue with wait times. With many customers unsatifised with the wait times and being pair with a relationship manager with a low similarity index, customers are left unsatisfied leading to decreased sale success and effeciency. In order to improve the current business processes of the travel company, the system which handles all in-bound and out-bound calls needs to be improved to reduce customer unsatisfaction rates.
 
