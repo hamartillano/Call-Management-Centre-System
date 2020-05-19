@@ -10,3 +10,5 @@
 
 User Story | Priority | Estimation | Acceptance Criteria
 --- |--- |--- |---
+As a Profile specialist i want to consult the customers in selecting the right travel destination in the quickest and most utilized manner so that i can save the time and cost on inbound calls. | High | 8 | Profile Specialist would be consulting customers in quickest manner by asking travel goals centric questions to customers and therefore creating a profile without wasting time on call.
+
