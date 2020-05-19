@@ -7,3 +7,6 @@
 - How will I connect with the person whom i am consulting with?
 - How efficiently and quickly will I be able to solve my issue?
 - How much time do i as a customer have to spend on call waiting for the right person to help me with the issue?
+
+User Story | Priority | Estimation | Acceptance Criteria
+--- |--- |--- |---
