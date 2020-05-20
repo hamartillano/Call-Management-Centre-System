@@ -55,7 +55,6 @@ The major travel company is looking to implement a system which will utilise a "
 4. What is stopping us from increasing sales pitch success?
 5. In what ways could we improve customers responses so we can get an idea of what should be done?
 
-
 ## Empathy Maps
 EMPATHY MAP (Customers)
 - Think and Feel: Feel like they want to go sometwhere. Think that they don't know where to go.
@@ -89,7 +88,6 @@ EMPATHY MAP (System Administrator)
 - Pain: Fear an issue can arise that they cannot fix.
 - Gain: Hopes the new system will fix the current issues.
 
-=======
 ## Product Backlog
 User Story | Priority | Estimation | Acceptance Criteria
 --- | --- | --- | ---
