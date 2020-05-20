@@ -54,8 +54,7 @@ The major travel company is looking to implement a system which will utilise a "
 3. What is make customers uninterested in the sales pitch being given?
 4. What is stopping us from increase sales pitch success?
 5. In what ways could we improve customers responses so we can get an idea of what should be done?
-### Profile Specialists
-- 
+
 
 ## Empathy Maps
 EMPATHY MAP (Customers)
