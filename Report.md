@@ -20,12 +20,12 @@
 4. The typical RM matching method which uses customers surname and postcodes lags the ability to know the client better and thefore makes the RM incompetent when it comes to knowing the full profile of the customer. 
 5. By creating better customer profile through improved quality of questionnarie, customer responses could be improved.
 ## Profile specialists
-1. 
-2.
-3.
+1. Time frame could be reduced by first contacting potential clients and then handle the other customers by gathering information specifically centered at their needs and wants thereby wasting less time on unimportant questions.
+2. RMs and customers can be linked via a profiling tool and skill set system which will make best pair of the customer and RM making the CMC operation efficient.
+3. Questions like customer's age, sex, cultural background, travel and budget prefrences, duration choices, traditional choices, etc.
 ## Customers
-1.
-2.
+1. Customer's need specific questions can be asked and RM empathizing will make customers feelk more engaged and interested and more willing to consider opting this company.
+2. 
 3.
 4.
 # Refection on finding and solving HMW
