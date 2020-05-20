@@ -57,11 +57,47 @@ The major travel company is looking to implement a system which will utilise a "
 ### Profile Specialists
 - 
 
+EMPATHY MAP (Customers)
+- Think and Feel: Feel like they want to go sometwhere. Think that they don't know where to go.
+- Hear: Friends and colleagues discussing places they have visited.
+- See: Potential holiday destinations.
+- Do and Say: Call up to buy packages and tell their friends about them.
+- Pain: Fear of not getting the holiday they want.
+- Gain: Hopes to get a product they need.
+
+EMPATHY MAP (Company Manager)
+- Think and Feel: Think that their system needs improvement, they feel like it could be more efficient.
+- Hear: That their customers are not fully satisfied from their system.
+- See: Customers buying travel packages using their service.
+- Do and Say: Manage the company and relay it to their shareholders.
+- Pain: Afraid of getting less profit and losing investors.
+- Gain: Hopes that with an increase of efficiency their profits will go up.
+
+EMPATHY MAP (RMs)
+- Think and Feel: Think about how they can be more effective, feel like the current system has flaws.
+- Hear: Their work colleagues complain about the system.
+- See: Customers buying packages they tell them about.
+- Do and Say: Reply to the customers calls and advertise their products.
+- Pain: Afraid of not meeting the sales quota.
+- Gain: Hopes that with a new system it will be easier to get sales.
+
+EMPATHY MAP (System Administrator)
+- Think and Feel: Think that the system can be built better. Feel like they have to put too much effort to maintain the current system.
+- Hear: The users complaining about the system.
+- See: The users struggle with the current system.
+- Do and Say: Work on upkeeing the current system and talk to the managers about it.
+- Pain: Fear an issue can arise that they cannot fix.
+- Gain: Hopes the new system will fix the current issues.
+
+=======
 ## Product Backlog
 User Story | Priority | Estimation | Acceptance Criteria
 --- | --- | --- | ---
 As a relationship manager, I want to be paired up with a customer of similar "Profile", so that I can bettter relate with the customer. | High | 9 | Relationship manager will be connected to a user with a similar "Profile" based on age, sex, culture, language proficiency, experience and product knowledge
+As a customer, I want my call to be taken quickly with little waiting time in order to save time. | High | 9 | The average waiting time in que for a customer is decreased significantly compared to the previous system.
+As a flight agency manager, I want my flights to fill up with customers so that my resources are used efficiently. | High | 8 | The sales rates of flights goes up and the flights have more people flying on average.
 As a customer, I want to be connected to a relationship manager with extensive knowledge regarding the travel destination I wish to go to, so that I am well informed and given proper guidance and knowledge. | High | 7 | Customer is connected to a relationship manager who has been acknowledged as highly informative regarding the chosen travel destination. 
 As a relationship manager, I want to complete a "Profile" questionnaire, so that my "Profile" can be acknowledged within the system. | High | 6 | Relationship managers are able to complete a questionnaire which asks for their age, sex, culture, language proficiency, experience and product knowledge forming the foundation for a "Profile" and "Skill Matrix".
 As a CMC Company Manager, I want to check each relationship managers sales performance, so that I can evaluate whether the relationship manager effectively and effeciently performing sales. | Medium | 6 | CMC Company Manager's can display all relationship managers sales performance in a table and can click on a specific employee to display sales information and performance.
 As a relationship manager, I want to check my sales performance and information, so that I can evaluate my own performance and improve on aspects which are showing low effectiveness. | Medium | 5 | Relationship managers will be able to check their sales performance as a pop up window, displaying their success rate, total sale opportunities (number of customers), dates of sales and line graph showing daily customers.
+As a relationship manager, I wish to have a stable system where I can take calls with no issues. | Medium | 7 | The system has very little downtime and does not crash frequently.
