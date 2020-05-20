@@ -57,6 +57,7 @@ The major travel company is looking to implement a system which will utilise a "
 ### Profile Specialists
 - 
 
+## Empathy Maps
 EMPATHY MAP (Customers)
 - Think and Feel: Feel like they want to go sometwhere. Think that they don't know where to go.
 - Hear: Friends and colleagues discussing places they have visited.
