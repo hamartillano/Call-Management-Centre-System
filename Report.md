@@ -1,12 +1,35 @@
 ## Profile Specialists
-- How might we reduce the time frame to collect Cumtomer profile?
-- How we will assign and link customer profile with relationship manager?
-- What kind of questions will be asked to create a better customer profile?
+1. How might we reduce the time frame to collect Cumtomer profile?
+2. How we will assign and link customer profile with relationship manager?
+3. What kind of questions will be asked to create a better customer profile?
  ## Customers
-- How might we get our problem specific solutions and not just generic guidance in regards to the travel holiday?
-- How will I connect with the person whom i am consulting with?
-- How efficiently and quickly will I be able to solve my issue?
-- How much time do i as a customer have to spend on call waiting for the right person to help me with the issue?
+1. How might we get our problem specific solutions and not just generic guidance in regards to the travel holiday?
+2. How will I connect with the person whom i am consulting with?
+3. How efficiently and quickly will I be able to solve my issue?
+4. How much time do i as a customer have to spend on call waiting for the right person to help me with the issue?
+# How to Solve HMW ? 
+## CMC Company managers
+1. Sales can improved by- better profiling of both customer and RMs, improving call routes and rates, creating customer score card and feedback reports, increasing numbers of invound and outbound call handling.
+2. RM's sales pitch success is driven by skill matcher and profiling tool within the system which will lead to more success rate in terms of sales turnover.
+3. Customers might be holding back maybe because of getting less value for thier holiday package, mainly little integration and engagement by the comapany's RM's or profile specialists.
+4. Increased customer statisfaction through more enagaging behaviour by the employees of firm and also providing best deals which customers demand through extensive knowledge of RMs.
+## Relationship managers
+1.
+2.
+3.
+4.
+5.
+## Profile specialists
+1.
+2.
+3.
+## Customers
+1.
+2.
+3.
+4.
+# Refection on finding and solving HMW
+
 
 User Story | Priority | Estimation | Acceptance Criteria
 --- |--- |--- |---
