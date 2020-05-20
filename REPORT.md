@@ -51,8 +51,8 @@ The major travel company is looking to implement a system which will utilise a "
 ### Relationship Managers
 1. How might we improve sale pitch success to our customers so that they are not left unsatisfied?
 2. What can we change about our sales tactic to get a better impression on customers?
-3. What is make customers uninterested in the sales pitch being given?
-4. What is stopping us from increase sales pitch success?
+3. What makes customers uninterested in the sales pitch being given?
+4. What is stopping us from increasing sales pitch success?
 5. In what ways could we improve customers responses so we can get an idea of what should be done?
 
 
