@@ -14,13 +14,13 @@
 3. Customers might be holding back maybe because of getting less value for thier holiday package, mainly little integration and engagement by the comapany's RM's or profile specialists.
 4. Increased customer statisfaction through more enagaging behaviour by the employees of firm and also providing best deals which customers demand through extensive knowledge of RMs.
 ## Relationship managers
-1. 
-2.
-3.
-4.
-5.
+1. Improve sales pitch by empathizing with customers needs and providing the exact package what clients are looking for.
+2. Framing and asking improved quality of questions in order to get what are customer needs and targeting exact points which customers were looking to get answers for would make a good sales tactic impression.
+3. If the sales pitch is too generic and automated/robotic and seems like its made to just focus on sales and not connecting with the customers, the company is more likely to loose sales.
+4. The typical RM matching method which uses customers surname and postcodes lags the ability to know the client better and thefore makes the RM incompetent when it comes to knowing the full profile of the customer. 
+5. By creating better customer profile through improved quality of questionnarie, customer responses could be improved.
 ## Profile specialists
-1.
+1. 
 2.
 3.
 ## Customers
