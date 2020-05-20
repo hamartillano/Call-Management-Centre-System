@@ -9,12 +9,12 @@
 4. How much time do i as a customer have to spend on call waiting for the right person to help me with the issue?
 # How to Solve HMW ? 
 ## CMC Company managers
-1. Sales can improved by- better profiling of both customer and RMs, improving call routes and rates, creating customer score card and feedback reports, increasing numbers of invound and outbound call handling.
+1. Sales can improved by better profiling of both customer and RMs, improving call routes and rates, creating customer score card and feedback reports, increasing numbers of invound and outbound call handling.
 2. RM's sales pitch success is driven by skill matcher and profiling tool within the system which will lead to more success rate in terms of sales turnover.
 3. Customers might be holding back maybe because of getting less value for thier holiday package, mainly little integration and engagement by the comapany's RM's or profile specialists.
 4. Increased customer statisfaction through more enagaging behaviour by the employees of firm and also providing best deals which customers demand through extensive knowledge of RMs.
 ## Relationship managers
-1.
+1. 
 2.
 3.
 4.
