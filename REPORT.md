@@ -50,3 +50,10 @@ EMPATHY MAP (System Administrator)
 - Do and Say: Work on upkeeing the current system and talk to the managers about it.
 - Pain: Fear an issue can arise that they cannot fix.
 - Gain: Hopes the new system will fix the current issues.
+
+User Stories:
+1. As a flight agency manager, I want my flights to fill up with customers so that my resources are used efficiently. Prio-High, Estimation-8, Acceptance Criteria- The sales rates of flights goes up and the flights have more people flying on average.
+
+2. As a relationship manager, I wish to have a stable system where I can take calls with no issues. Prio-High, Estimation-7, Acceptance Criteria- The system has very little downtime and does not crash frequently.
+
+3. As a customer, I want my call to be taken quickly with little waiting time in order to save time. Priority-High, Estimation-9, Acceptance Criteria- The average waiting time in que for a customer is decreased significantly compared to the previous system.
