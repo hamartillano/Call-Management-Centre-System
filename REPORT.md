@@ -44,16 +44,16 @@ The major travel company is looking to implement a system which will utilise a "
 
 ## How, Might, We (HMW) Statements
 ### CMC Company Manager
-- How might we improve sales by 15% next period?
-- What might we do to help relationship managers achieve higher sales pitch success?
-- What might be holding customers back when coming into contact with our company?
-- How might we find new techniques to improve overall customer satisfaction and response rate?
+1. How might we improve sales by 15% next period?
+2. What might we do to help relationship managers achieve higher sales pitch success?
+3. What might be holding customers back when coming into contact with our company?
+4. How might we find new techniques to improve overall customer satisfaction and response rate?
 ### Relationship Managers
-- How might we improve sale pitch success to our customers so that they are not left unsatisfied?
-- What can we change about our sales tactic to get a better impression on customers?
-- What is make customers uninterested in the sales pitch being given?
-- What is stopping us from increase sales pitch success?
-- In what ways could we improve customers responses so we can get an idea of what should be done?
+1. How might we improve sale pitch success to our customers so that they are not left unsatisfied?
+2. What can we change about our sales tactic to get a better impression on customers?
+3. What is make customers uninterested in the sales pitch being given?
+4. What is stopping us from increase sales pitch success?
+5. In what ways could we improve customers responses so we can get an idea of what should be done?
 ### Profile Specialists
 - 
 
