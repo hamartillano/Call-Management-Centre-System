@@ -4,9 +4,8 @@
 3. What kind of questions will be asked to create a better customer profile?
  ## Customers
 1. How might we get our problem specific solutions and not just generic guidance in regards to the travel holiday?
-2. How will I connect with the person whom i am consulting with?
-3. How efficiently and quickly will I be able to solve my issue?
-4. How much time do i as a customer have to spend on call waiting for the right person to help me with the issue?
+2. How efficiently and quickly will I be able to solve my issue?
+3. How much time do i as a customer have to spend on call waiting for the right person to help me with the issue?
 # How to Solve HMW ? 
 ## CMC Company managers
 1. Sales can improved by better profiling of both customer and RMs, improving call routes and rates, creating customer score card and feedback reports, increasing numbers of invound and outbound call handling.
@@ -25,10 +24,11 @@
 3. Questions like customer's age, sex, cultural background, travel and budget prefrences, duration choices, traditional choices, etc.
 ## Customers
 1. Customer's need specific questions can be asked and RM empathizing will make customers feelk more engaged and interested and more willing to consider opting this company.
-2. 
-3.
-4.
+2. With the 'prifilng tool' and 'skill matcher' the perfect match of RM and customer will be made so that there is efficiency and time-saving in service.
+3. By improving the CMC operating system, customers will not spend more that 10-15 minutes on call as their goal specific questions and queries will be solved.
+
 # Refection on finding and solving HMW
+These HMW statements were brainstormed and thought about based on the POV statements that focuses on end-user's needs and problems. Taking the basis of assumptions and POV statements HMW statemnts determines the problems that each stakeholder could potentially face and also find solutions to those problems were a part of this process. HMW statements helped how each stakeholder can be made more efficient by assessing there needs and problems and systematically finding solutions to those issues. 
 
 
 User Story | Priority | Estimation | Acceptance Criteria
