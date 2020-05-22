@@ -17,6 +17,7 @@ The major travel company is looking to implement a system which will utilise a "
 - Profile specialists
 - Customers
 - Flight agencies
+- System Administrators
 
 ## Assumptions of current business processes
 - One phone number for the entire travel company
