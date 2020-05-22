@@ -1,11 +1,6 @@
-# Call Management Centre System
+# Travel company - Call Management System
 
 ## Information System Development Methodologies (31257)
-### Team Members
-* Homer Aaron Martillano (13537675)
-* Hitarth Patel (12855589)
-* Kevin Nguyen (Student ID)
-* Yury Milenkov (Student ID)
 
 ## Case Study
 A major travel company would like to develop an information system to improve the operation of their in-house call management centre (CMC). The system will adjust the call flow rate to suitable Relationship Managers (RM). Relationship Managers (RMs) perform sales of holiday packages. To provide improved call routing and dynamic call flow control for both inbound and outbound calls, the information system will provide assistance to RMs in serving their end-customers (or potential customers) and will match RMs and endcustomers according to RMs skills and customers profiles
