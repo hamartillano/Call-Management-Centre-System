@@ -48,11 +48,11 @@ The major travel company is looking to implement a system which will utilise a "
 3. What might be holding customers back when coming into contact with our company?
 4. How might we find new techniques to improve overall customer satisfaction and response rate?
 ### Relationship Managers
-- How might we improve sales pitch success to our customers so that they are not left unsatisfied?
-- What can we change about our sales tactic to get a better impression on customers?
-- What makes customers uninterested in the sales pitch being given?
-- What is stopping us from increasing sales pitch success?
-- In what ways could we improve customers responses so we can get an idea of what should be done?
+1. How might we improve sales pitch success to our customers so that they are not left unsatisfied?
+2. What can we change about our sales tactic to get a better impression on customers?
+3. What makes customers uninterested in the sales pitch being given?
+4. What is stopping us from increasing sales pitch success?
+5. In what ways could we improve customers responses so we can get an idea of what should be done?
 ## Profile Specialists
 1. How might we reduce the time frame to collect Cumtomer profile?
 2. How we will assign and link customer profile with relationship manager?
