@@ -115,7 +115,6 @@ As a relationship manager, I wish to have a stable system where I can take calls
 As a CMC Company Manager, I want to check each relationship managers sales performance, so that I can evaluate whether the relationship manager effectively and effeciently performing sales. | Medium | 6 | CMC Company Manager's can display all relationship managers sales performance in a table and can click on a specific employee to display sales information and performance.
 As a relationship manager, I want to check my sales performance and information, so that I can evaluate my own performance and improve on aspects which are showing low effectiveness. | Medium | 5 | Relationship managers will be able to check their sales performance as a pop up window, displaying their success rate, total sale opportunities (number of customers), dates of sales and line graph showing daily customers.
 
-
 ## Identify and discuss the possible adverse effects for this Business if this information system project fails
 When a company looks to invest in developing or improving a current system within the business, the new or improved system will always have adverse effects upon release which could jeapordise the current business processes. With regard to our teams current project development of a call management system, our developed software solutions aims to completely control and handle all the current Travel companies call routing and relationship manager to customer pairing.
 
