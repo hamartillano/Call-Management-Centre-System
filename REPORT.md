@@ -117,15 +117,25 @@ Do and Say | Reply to the customers' calls and advertise their products.
 Pain | Afraid of not meeting the sales quota.
 Gain | I Hope that with a new system it will be easier to get sales.
 
-### System Administrator
+### Profile Specialist
 Emotion | Description
 :---: | ---
-Think and Feel | Think that the system can be built better. Feel like they have to put too much effort into maintaining the current system.
-Hear | The users complained about the system.
-See | The users struggle with the current system.
-Do and Say | Work on upkeeping the current system and talk to the managers about it.
-Pain | Fear an issue can arise that they cannot fix.
-Gain | I Hope the new system will fix the current issues.
+Think and Feel | 
+Hear | 
+See | 
+Do and Say | 
+Pain | 
+Gain | 
+
+### Flight Agency
+Emotion | Description
+:---: | ---
+Think and Feel | 
+Hear | 
+See | 
+Do and Say | 
+Pain | 
+Gain | 
 
 ## Product Backlog
 User Story | Priority | Estimation | Acceptance Criteria
