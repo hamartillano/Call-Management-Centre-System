@@ -115,27 +115,17 @@ Hear | Their work colleagues complain about the system.
 See | Customers buying packages they tell them about.
 Do and Say | Reply to the customers' calls and advertise their products.
 Pain | Afraid of not meeting the sales quota.
-Gain | I Hope that with a new system it will be easier to get sales.
-
-### Profile Specialist
-Emotion | Description
-:---: | ---
-Think and Feel | 
-Hear | 
-See | 
-Do and Say | 
-Pain | 
-Gain | 
+Gain | Hopes that with a new system it will be easier to get sales.
 
 ### Flight Agency
 Emotion | Description
 :---: | ---
-Think and Feel | 
-Hear | 
-See | 
-Do and Say | 
-Pain | 
-Gain | 
+Think and Feel | Think that they need more customers, feel like the current system donesn't attract enough customers.
+Hear | The customer's feedback on their flights.
+See | Customers being satisfied/dissatisfied with their services.
+Do and Say | Provide flights to customers and talk about their services.
+Pain | Afraid that their services lose customers.
+Gain | Hope that their sales increase with the new system.
 
 ## Product Backlog
 User Story | Priority | Estimation | Acceptance Criteria
