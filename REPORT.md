@@ -14,7 +14,6 @@ The major travel company is looking to implement a system which will utilise a "
 ## Stakeholders
 - CMC Company Manager
 - Relationship Managers
-- Call management system
 - Profile specialists
 - Customers
 - Flight agencies
