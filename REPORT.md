@@ -22,7 +22,7 @@ The major travel company is looking to implement a system which will utilise a "
 Across the development of the project, the use of scrum methodology is essential in order to plan, track, review and progress productivity while working towards the final product. With the use of scrum, all team members will be able to actively plan the project and receive weekly feedback through the use of ‘sprints’. At the end of each sprint, there are two meetings called ‘sprint review’ and sprint retrospective which includes showcasing each team member’s progress and discussions for improvement. The use of ‘GitHub’ could be used to support the scrum methodology as the use of commit messages, issue tracking and branches allow each team member to track each other’s progress. The key aspect of using the agile methodology is to distribute a joint responsibility between team members, plan constructively and encourage efficiency and teamwork across the project. 
 
 ## Sprint planning
-Sprint planning is used at the beginning of each sprint which plans out the parts each team member will complete and construct the main goal. We utilised this to evenly distribute the workload during each sprint and 
+Sprint planning is used at the beginning of each sprint which plans out the parts each team member will complete and construct the main goal. We utilised this to evenly distribute the workload during each sprint and to keep the team on track.
 
 ## Sprints
 - Sprint duration will be one week.
