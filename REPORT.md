@@ -179,3 +179,6 @@ If the newly developed system fails to achieve its purpose of managing all in-bo
 Another possible adverse effect the system may have on the Travel agency may be the inaccurate pairing of the customers to a corresponding relationship manager with similar profile attributes. In the event that the company is unable to utilise the new system, profile specialists would need to take over the re-routing of calls to similarly scored customers which will result in customers being given waiting times to ensure the appropriate relationship manager is paired to a customer. However, an opposite event may occur where a customer is rushed to the first available relationship manager which ultimately adds to the company’s initial troubles.
 
 Ultimately, both instances result in customers leaving dissatisfied with the service they received which would cause the company to decrease in sales and lose their relationship with existing customers.
+
+# Presentation Video Link
+https://drive.google.com/file/d/1gCtvzDdFVm95FroVG0y9tQ078GSC6XGH/view?usp=sharing
