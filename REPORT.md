@@ -18,6 +18,22 @@ The major travel company is looking to implement a system which will utilise a "
 - Customers
 - Flight agencies
 
+## Overview of the agile methodology ‘scrum’
+Across the development of the project, the use of scrum methodology is essential in order to plan, track, review and progress productivity while working towards the final product. With the use of scrum, all team members will be able to actively plan the project and receive weekly feedback through the use of ‘sprints’. At the end of each sprint, there are two meetings called ‘sprint review’ and sprint retrospective which includes showcasing each team member’s progress and discussions for improvement. The use of ‘GitHub’ could be used to support the scrum methodology as the use of commit messages, issue tracking and branches allow each team member to track each other’s progress. The key aspect of using the agile methodology is to distribute a joint responsibility between team members, plan constructively and encourage efficiency and teamwork across the project. 
+
+## Sprint planning
+Sprint planning is used at the beginning of each sprint which plans out the parts each team member will complete and construct the main goal. 
+
+## Sprints
+- Sprint duration will be one week.
+- Standup meetings will be held weekly just before the next sprint.
+- Sprint review and retrospective meetings at the end of each sprint are held in order to review the diagrams, user stories and use case narratives.
+- During meetings, utilising github’s ‘issues’ feature or commits feature will assist in solving a certain issue/review. Once the issue/review has been finalised, closing the issue on github will assist in keeping track of progress.
+
+## Backlog/Sprint backlog
+- A backlog will be created made up of user stories for the system and each sprint will distribute which section each team member will complete during the sprints.
+- Example: Sprint 1 will distribute 2 user stories for each member to complete.
+
 ## Assumptions of current business processes
 - One phone number for the entire travel company
 - All in-bound calls are redirected to the profile specialists sector which asks the caller a set of questions regarding background, culture and preferred destination.
